@@ -15,7 +15,7 @@ El proyecto se enfoca exclusivamente en clientes del segmento **Residencial**, d
 ## Contenido del repositorio
 
 * `EP03.ipynb`: notebook principal del proyecto.
-* `docs/`: pauta, documentación de apoyo y descripción del trabajo.
+* `docs/`: entregables, pauta, documentación de apoyo y descripción del trabajo.
 * `data/`: datos originales utilizados en el análisis.
 * `data/processed/`: datasets y artefactos generados durante el procesamiento y modelamiento.
 * `outputs/presentacion/`: gráficos y tablas generados para apoyar la presentación final.
