@@ -65,8 +65,8 @@ plots/
 *.png
 *.jpg
 *.jpeg
-*.svg
-*.pdf
+# *.svg
+# *.pdf
 
 # ============================================================
 # Archivos comprimidos
@@ -76,3 +76,5 @@ plots/
 *.7z
 *.tar
 *.gz
+
+docs/insumos/
